@@ -1,3 +1,20 @@
+-- Lecturer's table to store lecturer info
+CREATE TABLE lecturers (
+  lecturer_id SERIAL PRIMARY KEY,
+  username VARCHAR(50) NOT NULL,
+  password VARCHAR(255) NOT NULL,
+  full_name VARCHAR(100) NOT NULL,
+  email VARCHAR(100) NOT NULL,
+  department VARCHAR(100) NOT NULL,
+  specialization VARCHAR(100),
+  office_location VARCHAR(100),
+  contact_number VARCHAR(20),
+  date_of_birth DATE NOT NULL,
+  gender VARCHAR(10) NOT NULL,
+  profile_picture BYTEA
+);
+
+
 --Students table to store students details
 CREATE TABLE students (
   student_id SERIAL PRIMARY KEY,
