@@ -11,7 +11,7 @@ public class Course {
     @Column(nullable = false, unique = true)
     private String courseName;
     
-    @ManyToOne
+    @OneToOne
     @JoinColumn(name = "department_id")
     private Department department;
     
