@@ -39,10 +39,8 @@ The system follows a typical client-server architecture, with the front-end buil
 ## Front-end Architecture
 The front-end of the mobile system is developed using [Flutter](https://flutter.dev), a cross-platform framework for building mobile apps. The [Flutter](https://flutter.dev) architecture follows a widget-based approach, where the UI components are built using a hierarchy of widgets.
 
-|Login|Registration|
-|:---:|:---:|
-|![SES_login](https://github.com/Serkhani/ugmis/assets/66341820/226136b6-2207-4e81-a063-ea437a1b4cc7)| ![SES_register_error](https://github.com/Serkhani/ugmis/assets/66341820/b0694b41-c590-41d7-a44f-6622ccd697a8)|
 - **Flutter Mobile App:** 
+  
 |launcher|login|failed|
 |:---:|:---:|:---:|
 |![launcher](https://github.com/Serkhani/ses/assets/66341820/e9216a80-82cf-4c4b-bffd-6c6c1e673426)| ![login](https://github.com/Serkhani/ses/assets/66341820/9fa51c3c-296c-4532-91c4-1c383bffa670)| ![error](https://github.com/Serkhani/ses/assets/66341820/67a0c71d-3a36-499b-84a9-d68791a56071)|
@@ -52,6 +50,7 @@ The front-end of the mobile system is developed using [Flutter](https://flutter.
 |![login_success](https://github.com/Serkhani/ses/assets/66341820/f09a79e3-bbaf-4ae1-aa98-c0cacb8c1a39)| ![profile](https://github.com/Serkhani/ses/assets/66341820/70ba36d2-ac3c-4470-a48c-0fc30ccac302)| ![systems](https://github.com/Serkhani/ses/assets/66341820/f9f1dd4a-08e8-4542-866c-76913579fa7b)|
 
 - **React Web App:**
+  
 |loginpage|forgot_password|info_entry_page|about_school|
 |:---:|:---:|:---:|:---:|
 |![loginpage](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/722b610b-fc2b-4ddb-85ae-8e66a07d69bb)| ![forgot password](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/5293fcbf-cb1b-47e6-8c74-5ea2bf7abfb7)| ![info entry page](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/9951d075-313d-4252-ae76-56168539d89e)| ![about_school](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/e4268b0c-a250-4fc1-b4a9-1159b1011fd2)|
