@@ -53,8 +53,7 @@ The front-end of the mobile system is developed using [Flutter](https://flutter.
 |:---:|:---:|:---:|:---:|
 |![loginpage](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/722b610b-fc2b-4ddb-85ae-8e66a07d69bb)| ![forgot password](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/5293fcbf-cb1b-47e6-8c74-5ea2bf7abfb7)| ![info entry page](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/9951d075-313d-4252-ae76-56168539d89e)| ![about_school](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/e4268b0c-a250-4fc1-b4a9-1159b1011fd2)|
 |dashboard|courses_to_be_taken|assignments|grades|
-|![dashboard](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/d77a6049-f2c2-43a4-94bb-45b3d2ce1448)|
-![courses_to_be_taken](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/aa0fb3e4-9873-4d24-9a36-50bf56897c6f)|![assignments](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/fd94b79b-46fc-43ad-bed2-000f5d6ab578)|![Grades](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/69ab0165-3176-4344-a5c8-6085565092a7)|
+|![dashboard](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/d77a6049-f2c2-43a4-94bb-45b3d2ce1448)| ![courses_to_be_taken](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/aa0fb3e4-9873-4d24-9a36-50bf56897c6f)|![assignments](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/fd94b79b-46fc-43ad-bed2-000f5d6ab578)|![Grades](https://github.com/FaroukDev-tech/React_Student_Mgt_System/assets/66341820/69ab0165-3176-4344-a5c8-6085565092a7)|
 
 
 
