@@ -1,5 +1,5 @@
+<h1 align="center">SES - Project Overview </h1>
 <p align="center">
-    <h1 align="center">SES - Project Overview </h1>
     <img width="200" src="https://github.com/Serkhani/ses/assets/66341820/d1381c0c-11f2-462a-8bce-609c81cf6f29" alt="ug_logo">
 </p>
 
@@ -29,7 +29,7 @@ The School of Engineering Communication App is a comprehensive software solution
 The system follows a typical client-server architecture, with the front-end built using [Flutter](https://flutter.dev) for the mobile app and a back-end server for handling log-in, registration, and data storage. The front-end and back-end components will be connected through API using [SpringBoot](https://spring.io).
 
 <p align="center">
-    <img width="200" src="https://github.com/Serkhani/ses/assets/66341820/c6e5411a-7f78-41ef-8969-bb242475c500" alt="system design">
+    <img width="500" height="500" src="https://github.com/Serkhani/ses/assets/66341820/c6e5411a-7f78-41ef-8969-bb242475c500" alt="system design">
 </p>
 
 ## Front-end Architecture
