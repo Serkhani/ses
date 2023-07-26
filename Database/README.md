@@ -42,5 +42,7 @@ The proposed schema can be implemented in a PostgreSQL database by executing the
 To set up the database, follow these steps:
 
 >Create a new PostgreSQL database.
+
 >Execute the SQL statements in the provided script to create the required tables and constraints.
+
 >Populate the tables with initial data as needed.
